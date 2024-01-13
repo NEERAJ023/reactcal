@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcal/static/css/main.3c407318.css",
+    "main.js": "/reactcal/static/js/main.78643621.js",
+    "index.html": "/reactcal/index.html",
+    "main.3c407318.css.map": "/reactcal/static/css/main.3c407318.css.map",
+    "main.78643621.js.map": "/reactcal/static/js/main.78643621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c407318.css",
+    "static/js/main.78643621.js"
+  ]
+}
